@@ -61,6 +61,7 @@ public class Topic_01_CheckEnvironment {
 	@AfterClass
 	public void afterClass() {
 		// Tắt trình duyệt đi
+		// Update Code
 		driver.quit();
 	}
 
