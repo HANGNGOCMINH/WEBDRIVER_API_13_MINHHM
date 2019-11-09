@@ -61,7 +61,7 @@ public class Topic_02_TestSubscription_Github {
 	@AfterClass
 	public void afterClass() {
 		// Tắt trình duyệt đi
-		// Update Codeasas
+		// Update Code
 		// up len Github
 		driver.quit();
 	}
